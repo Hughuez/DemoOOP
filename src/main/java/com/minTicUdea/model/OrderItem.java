@@ -39,4 +39,12 @@ public class OrderItem {
         return price * quantity;
     }
 
+    @Override
+    public String toString() {
+        return "OrderItem{" +
+                "\nquantity=" + quantity +
+                ", \nprice=" + price +
+                ", \nproduct=" + product +
+                '}';
+    }
 }

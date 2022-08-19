@@ -69,4 +69,13 @@ public class Order {
         return sum;
     }
 
+    @Override
+    public String toString() {
+        return "Order{" +
+                "\norderDate=" + orderDate +
+                ", \nclient=" + client +
+                ", \nitems=" + items +
+                ", \nstatus=" + status +
+                '}';
+    }
 }

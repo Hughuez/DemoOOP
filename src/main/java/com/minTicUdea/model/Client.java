@@ -12,4 +12,13 @@ public class Client {
         this.email = email;
         this.birthdate = birthdate;
     }
+
+    @Override
+    public String toString() {
+        return "Client{" +
+                "\nname='" + name + '\'' +
+                ", \nemail='" + email + '\'' +
+                ", \nbirthdate=" + birthdate +
+                '}';
+    }
 }
