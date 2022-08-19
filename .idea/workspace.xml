@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad363a20-92e9-442f-a2eb-b589d88fb714" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minTicUdea/app/app/Programa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minTicUdea/model/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
